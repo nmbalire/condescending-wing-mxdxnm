@@ -136,7 +136,7 @@ function seedEventsIfEmpty() {
     },
     {
       id: "EVT-" + Math.random().toString(36).slice(2, 8).toUpperCase(),
-      title: "City Open 2025",
+      title: "Nambole std",
       venue: "Nationale Arena",
       city: "Bucharest",
       ...addDays(45),
